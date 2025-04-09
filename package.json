@@ -1,0 +1,24 @@
+{
+  "name": "modern-js-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "dev": "vite",
+  "build": "vite build"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedaayyad/modern-js-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedaayyad/modern-js-assessment/issues"
+  },
+  "homepage": "https://github.com/ahmedaayyad/modern-js-assessment#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.2.5"
+  }
+}
